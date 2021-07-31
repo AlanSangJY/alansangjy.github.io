@@ -2,4 +2,4 @@
 my note
 123
 <hr/>
-<a src="test.html"/>
+<a src="test.html">test</a>
